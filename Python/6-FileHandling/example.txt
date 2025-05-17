@@ -1,0 +1,11 @@
+Agentic AI operates through a complex network of autonomous software components known as "agents" that draw from massive amounts of data and learn from user behavior to improve over time. 
+Each agent is designed with specific goals and abilities, working in harmony to tackle complex tasks. 
+This innovative approach to agentic AI relies on a blend of advanced technologies such as machine learning, NLP, and knowledge representation that helps agents learn, communicate, and reason effectively.
+
+Agentic AI uses self-contained agents - AI models that autonomously complete tasks and manage workflows using machine learning, algorithms, and predictive analytics to make real-time decisions.
+It follows a five-step process to solve complex problems:
+ 1. Perceive
+ 2. Reason
+ 3. Act
+ 4. Learn
+ 5. Collaborate
