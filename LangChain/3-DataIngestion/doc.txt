@@ -1,0 +1,12 @@
+DocumentLoaders load data into the standard LangChain Document format.
+Each DocumentLoader has its own specific parameters, but they can all be invoked in the same way with the .load method.
+
+1. Webpages
+Web - Uses urllib and BeautifulSoup to load and parse HTML web pages
+Unstructured - Uses Unstructured to load and parse web pages
+RecursiveURL - Recursively scrapes all child links from a root URL
+
+2. PDFs
+PyPDF - Uses `pypdf` to load and parse PDFs
+Unstructured - Uses Unstructured's open source library to load PDFs
+PyMuPDF - Load PDF files using PyMuPDF
