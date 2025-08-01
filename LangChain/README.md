@@ -1,0 +1,1 @@
+![Retrieval Augmented Generation](assests/langchain-components.svg)
